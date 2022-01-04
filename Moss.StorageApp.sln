@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moss.StorageApp", "Moss.StorageApp.csproj", "{62571066-4A52-429D-BDD8-820E6ECC767C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62571066-4A52-429D-BDD8-820E6ECC767C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62571066-4A52-429D-BDD8-820E6ECC767C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62571066-4A52-429D-BDD8-820E6ECC767C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62571066-4A52-429D-BDD8-820E6ECC767C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB7EE22-210C-4957-82BC-DDAAFE0DC480}
+	EndGlobalSection
+EndGlobal
